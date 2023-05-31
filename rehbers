@@ -1,6 +1,6 @@
 [
   {
-    "name": "MEMO",
+    "name": "Mehmet Gedik",
     "capital": "Algiers",
     "region": "Africa",
     "currency": "DZD",
@@ -8,7 +8,7 @@
     "language": "Arabic"
   },
   {
-    "name": "Andorra",
+    "name": "Mehmet Gedik",
     "capital": "Andorra Vella",
     "region": "Europe",
     "currency": "EUR",
@@ -16,7 +16,7 @@
     "language": "Catalan"
   },
   {
-    "name": "Antartica",
+    "name": "Mehmet Gedik",
     "capital": "Antartica",
     "region": "Polar",
     "currency": "AUD",
@@ -24,7 +24,7 @@
     "language": "English"
   },
   {
-    "name": "MEMO",
+    "name": "Mehmet Gedik",
     "capital": "Baku",
     "region": "Asia",
     "currency": "AZN",
@@ -144,11 +144,11 @@
     "language": "Russian"
   },
   {
-    "name": "Turkey",
-    "capital": "Ankara",
-    "region": "Asia",
-    "currency": "TRY",
+    "name": "Mehmet Gedik",
+    "capital": "Mehmet Gedik",
+    "region": "Mehmet Gedik",
+    "currency": "Mehmet Gedik",
     "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png",
-    "language": "Turkish"
+    "language": "Mehmet Gedik"
   }
 ]
